@@ -96,6 +96,8 @@ export const DATA = {
       title: "Software Engineer",
       start: " ",
       end: "present",
+      href:"",
+      logoUrl:"",
       description:
         "Developed multiple Andorid applications for students megaprojects,also developed a management website in react for a Wholesale seller",
     },
